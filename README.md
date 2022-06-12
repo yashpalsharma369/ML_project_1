@@ -71,3 +71,4 @@ Stop docker containers
 '''
 docker stop <<container_id>>
 '''
+# 12: Create .github/workflows/main.yaml file - this file will instruct 
